@@ -76,14 +76,17 @@ This repository contains an installer script to run **Cursor AI IDE** on Ubuntu 
 
 6. **💿 Installing Cursor AI IDE on Ubuntu...**
    How do you want to provide the Cursor AppImage?
+
+   ```
    📥 1. Automatically download the latest version (recommended)
    📁 2. Specify local file path manually
 
    - Please choose an option (1 or 2):
-
    ```
 
-   ```
+```
+
+```
 
 **Choose AppImage download option**
 
