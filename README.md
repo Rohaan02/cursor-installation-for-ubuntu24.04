@@ -58,11 +58,10 @@ This repository contains an installer script to run **Cursor AI IDE** on Ubuntu 
 
    - If `figlet` is not installed, it will be installed automatically.
    - You will see a menu:
-     ```
-     💿 1. Install Cursor
-     🆙 2. Update Cursor
+
+     💿 1. **Install Cursor**
+     🆙 2. **Update Cursor**
      Please choose an option (1 or 2):
-     ```
 
 5. **Choose installation option**
 
@@ -70,23 +69,13 @@ This repository contains an installer script to run **Cursor AI IDE** on Ubuntu 
    1
    ```
 
-   ```bash
-
-   ```
-
 6. **💿 Installing Cursor AI IDE on Ubuntu...**
    How do you want to provide the Cursor AppImage?
 
-   ```
-   📥 1. Automatically download the latest version (recommended)
-   📁 2. Specify local file path manually
+   📥 1. **Automatically download the latest version (recommended)**
+   📁 2. **Specify local file path manually**
 
    - Please choose an option (1 or 2):
-   ```
-
-```
-
-```
 
 **Choose AppImage download option**
 
